@@ -5,7 +5,7 @@
 ![Header](./Landing_header.png)
 
 <!-- Typing intro (https://github.com/DenverCoder1/readme-typing-svg) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B%2C+I+am+Preet+Bhalala;Kaggle+Community+member;Student+at+%40UofR&color=36BCF7&center=true&vCenter=true&width=600)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B%2C+I+am+Dev+Lulla;Kaggle+Community+member;Student+at+%40UofR&color=36BCF7&center=true&vCenter=true&width=600)](https://git.io/typing-svg)
 
 <!-- Skills -->
 | Property | Data |
